@@ -2,6 +2,7 @@
 Installation guide:
 - open cmd
 - run command npm install
+- run command node index.js
 
 *Notes:
 1. http://localhost:3000/cities //get All Cities
